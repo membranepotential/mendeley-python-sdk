@@ -16,7 +16,7 @@ setup(
 
     install_requires=[
         'arrow~=0.5.0',
-        'future~=0.14.3',
+        'future>=0.14.3',
         'memoized-property~=1.0.2',
         'requests>=2',
         'requests-oauthlib>=1',
